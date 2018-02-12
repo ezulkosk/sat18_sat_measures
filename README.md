@@ -1,13 +1,15 @@
-# sat18_sat_measures
+# The Effect of Structural Measures and Merges on SAT Solver Performance
+## Supplemental Material
+## Edward Zulkoski, Ruben Martins, Jia Liang, Krzysztof Czarnecki, and Vijay Ganesh
 
-* Contains...
+### Contains...
 
-** mergeability generator
+* mergeability generator
 
-** popularity/similarity base-instances generated
+* popularity/similarity base-instances generated
 
-** additional figures plotting mergeability vs MapleSat solving time
+* additional figures plotting mergeability vs MapleSat solving time
 
-** correlation results with Lingeling
+* correlation results with Lingeling
 
-** python code for computations
+* python code for computations
